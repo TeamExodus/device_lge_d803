@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "TeamExodus/device_lge_g2-common",
+    "target_path": "device/lge/g2-common"
+  },
+  {
+    "repository": "TeamExodus/vendor_lge_d803",
+    "target_path": "vendor/lge/d803"
+  },
+  {
+    "repository": "TeamExodus/vendor_lge_g2-common",
+    "target_path": "vendor/lge/g2-common"
+  }
+]
